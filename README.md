@@ -1,4 +1,4 @@
-# Social-Media-Analysis-Implementation with R igraph package
+# Social-Network-Analysis-Implementation with R igraph package
 
 ## Social Network Analysis for Bipartite graph:
 
