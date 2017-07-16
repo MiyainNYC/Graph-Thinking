@@ -5,6 +5,7 @@
 * graph properties(degree, betweenness, Eigenvector centrality)
 * graph visualization
 * bipartite graph projection
+* static graph & dynamic graph
 * graph modeling (parametric & nonparametric)
 * igraph, networkx, neo4j
 
