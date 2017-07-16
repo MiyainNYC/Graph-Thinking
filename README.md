@@ -1,9 +1,10 @@
-# Social-Network-Analysis-Implementation with R igraph package
+# Graph
 
 ## Social Network Analysis for Bipartite graph:
 
-* statistical measurement(degree, betweenness, Eigenvector centrality)
+* graph properties(degree, betweenness, Eigenvector centrality)
 * graph visualization
-* algorithms(PageRank)
-* community detection
+* bipartite graph projection
+* graph modeling (parametric & nonparametric)
+* igraph, networkx, neo4j
 
