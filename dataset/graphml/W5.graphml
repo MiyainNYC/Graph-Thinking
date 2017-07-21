@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="vre" />
+    <node id="yzz" />
+    <node id="nzb" />
+    <node id="kwk" />
+    <node id="bwv" />
+    <node id="cfo" />
+    <node id="eix" />
+    <node id="mxk" />
+    <node id="ndy" />
+    <node id="eev" />
+    <node id="uqe" />
+    <node id="eme" />
+    <node id="cvg" />
+    <node id="zmi" />
+    <node id="kog" />
+    <node id="kvb" />
+    <node id="ybz" />
+    <node id="tln" />
+    <node id="xug" />
+    <node id="lzv" />
+    <node id="kwv" />
+    <node id="nqf" />
+    <node id="wpd" />
+    <node id="ifa" />
+    <node id="kgo" />
+    <node id="ifd" />
+    <node id="xso" />
+    <node id="bhl" />
+    <node id="hsi" />
+    <node id="ant" />
+    <node id="cdc" />
+    <node id="dqm" />
+    <node id="uvy" />
+    <node id="izl" />
+    <node id="uda" />
+    <node id="zuu" />
+    <node id="lvv" />
+    <node id="vbe" />
+    <node id="iiw" />
+    <node id="jjl" />
+    <node id="nml" />
+    <node id="hgv" />
+    <node id="fih" />
+    <node id="kji" />
+    <node id="jmv" />
+    <node id="god" />
+    <node id="gqw" />
+    <node id="flf" />
+    <node id="blt" />
+    <node id="nqd" />
+    <node id="yrf" />
+    <node id="zzc" />
+    <node id="par" />
+    <node id="hsx" />
+    <node id="zow" />
+    <node id="mfl" />
+    <node id="dst" />
+    <node id="oix" />
+    <node id="tsg" />
+    <node id="bjx" />
+    <node id="jen" />
+    <node id="csk" />
+    <node id="kad" />
+    <node id="fcr" />
+    <node id="jdc" />
+    <node id="sgx" />
+    <node id="mht" />
+    <node id="qth" />
+    <node id="xsi" />
+    <node id="xtq" />
+    <node id="yuu" />
+    <node id="xpo" />
+    <node id="rko" />
+    <node id="kgt" />
+    <node id="ksk" />
+    <node id="afu" />
+    <node id="eyq" />
+    <node id="hia" />
+    <node id="pck" />
+    <node id="kic" />
+    <node id="wfi" />
+    <node id="tux" />
+    <node id="pjt" />
+    <node id="rzz" />
+    <node id="tuy" />
+    <node id="mxi" />
+    <node id="jgx" />
+    <node id="uyb" />
+    <node id="vaz" />
+    <node id="uap" />
+    <node id="zpj" />
+    <node id="uuq" />
+    <node id="fnc" />
+    <node id="wnj" />
+    <node id="pma" />
+    <node id="bor" />
+    <node id="nfd" />
+    <node id="oab" />
+    <node id="jhm" />
+    <node id="tfr" />
+    <node id="tob" />
+    <node id="fbh" />
+    <node id="tdr" />
+    <node id="sfj" />
+    <node id="zhb" />
+    <node id="jxe" />
+    <node id="ffk" />
+    <node id="lmx" />
+    <node id="ihi" />
+    <node id="cwo" />
+    <node id="cam" />
+    <node id="ecc" />
+    <node id="mie" />
+    <node id="dsd" />
+    <node id="zdn" />
+    <node id="ycx" />
+    <node id="shg" />
+    <node id="hgh" />
+    <node id="vuj" />
+    <node id="gun" />
+    <node id="qfq" />
+    <node id="eaa" />
+    <node id="hpy" />
+    <node id="ron" />
+    <node id="mcd" />
+    <node id="ihn" />
+    <node id="coj" />
+    <node id="unj" />
+    <node id="clv" />
+    <node id="gxr" />
+    <node id="vdj" />
+    <node id="fje" />
+    <node id="jve" />
+    <node id="kst" />
+    <node id="owg" />
+    <node id="zkz" />
+    <node id="jxq" />
+    <node id="uxe" />
+    <node id="dth" />
+    <node id="gqi" />
+    <node id="bri" />
+    <node id="hbw" />
+    <node id="pfm" />
+    <node id="yds" />
+    <node id="xrt" />
+    <node id="eax" />
+    <node id="tpo" />
+    <node id="sai" />
+    <node id="xtb" />
+    <node id="osr" />
+    <node id="twu" />
+    <node id="aox" />
+    <node id="lpd" />
+    <node id="vbv" />
+    <node id="ips" />
+    <node id="soq" />
+    <node id="hoa" />
+    <node id="cuy" />
+    <node id="xoj" />
+    <node id="fvu" />
+    <node id="kcu" />
+    <node id="zmh" />
+    <node id="kps" />
+    <node id="fpj" />
+    <node id="alv" />
+    <edge source="vre" target="kad">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="vre" target="bri">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="vre" target="ecc">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="nzb" target="fpj">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="nzb" target="shg">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="nzb" target="gxr">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="nzb" target="zuu">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="cfo" target="tfr">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mxk" target="gqw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="mie">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="oab">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="vdj">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mxk" target="dsd">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="ndy" target="hoa">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="ndy" target="clv">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="ndy" target="nqf">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="eme" target="ksk">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="eme" target="ycx">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="eme" target="twu">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="zmi" target="sai">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="kvb" target="wnj">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="kvb" target="ffk">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="ybz" target="qth">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="ybz" target="fje">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="ybz" target="uvy">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="ybz" target="fnc">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="tln" target="xtq">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="lzv" target="uda">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="lzv" target="mfl">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="lzv" target="soq">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="nqf" target="hoa">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="nqf" target="clv">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="wpd" target="hsx">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hsi" target="wfi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="hsi" target="eaa">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="ant" target="tsg">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dqm" target="nqd">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="dqm" target="xsi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="uvy" target="qth">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="uvy" target="fje">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="uvy" target="fnc">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="uda" target="mfl">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="uda" target="soq">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="zuu" target="shg">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="zuu" target="gxr">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="zuu" target="fpj">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="lvv" target="pjt">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="lvv" target="hgh">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="vbe" target="mfl">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="vbe" target="jhm">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="jjl" target="xpo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="fih" target="par">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="fih" target="eax">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="kji" target="uuq">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="jmv" target="zmh">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gqw" target="mie">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="gqw" target="oab">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="gqw" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="gqw" target="vdj">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="gqw" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="gqw" target="dsd">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="nqd" target="xsi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="yrf" target="yds">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="par" target="eax">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="zow" target="rko">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mfl" target="soq">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="mfl" target="jhm">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="dst" target="zhb">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="dst" target="dth">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="oix" target="lmx">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="kad" target="bri">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="kad" target="ecc">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="fcr" target="osr">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="jdc" target="kst">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="jdc" target="hpy">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="qth" target="fje">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="qth" target="fnc">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="xsi" target="kic">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="yuu" target="uap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ksk" target="twu">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="ksk" target="ycx">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="afu" target="zdn">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="eyq" target="gqi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="eyq" target="sfj">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="wfi" target="eaa">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="pjt" target="hgh">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="rzz" target="pma">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="rzz" target="zpj">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="jgx" target="xrt">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uyb" target="aox">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="zpj" target="pma">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="fnc" target="fje">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="wnj" target="ffk">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="oab" target="mie">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="oab" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="oab" target="vdj">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="oab" target="dsd">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="oab" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="sfj" target="gqi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="zhb" target="dth">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="cwo" target="cam">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ecc" target="bri">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="mie" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mie" target="vdj">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mie" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="mie" target="dsd">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="dsd" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="dsd" target="vdj">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="dsd" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="ycx" target="uxe">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ycx" target="twu">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="shg" target="fpj">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="shg" target="gxr">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="hgh" target="jve">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hpy" target="kst">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="clv" target="hoa">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="gxr" target="fpj">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="vdj" target="hbw">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="vdj" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="hbw" target="kcu">
+      <data key="d0">0.14285714285714285</data>
+    </edge>
+    <edge source="pfm" target="lpd">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>
