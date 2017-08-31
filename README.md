@@ -10,5 +10,4 @@
 * non-parametric statistical modeling on graph
 * graph-based collaborative filtering
 * igraph, networkx, neo4j
-* graph based collaborative filtering
 
