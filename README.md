@@ -1,5 +1,7 @@
 # Graph
 
+An dirty on-process repo for graph-based collaborative filtering
+
 ## Social Network Analysis for Bipartite graph:
 
 * graph properties
